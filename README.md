@@ -43,6 +43,9 @@ For support, email  help.visionvault@gmail.com .
 
 If you have any feedback, please reach out to us at help.visionvault@gmail.com.
 
+## Owner
+
+- [@Arnab Gupta](https://github.com/itz-ivision)
 
 ## Authors
 
