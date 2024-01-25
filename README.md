@@ -3,7 +3,7 @@
 Empowering Futures, Safeguarding Visions – Your Knowledge, Our Vault.
 
 
-<img src="https://res.cloudinary.com/dhv9ayxwl/image/upload/v1706198164/t6dmjkp1z9xwn86f38rj.jpg" width=40% height=40%>
+<img src="https://res.cloudinary.com/dhv9ayxwl/image/upload/v1706198164/t6dmjkp1z9xwn86f38rj.jpg" width=30% height=30%>
 <!-- ![Logo]() -->
 
 
