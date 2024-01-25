@@ -4,7 +4,7 @@ Empowering Futures, Safeguarding Visions – Your Knowledge, Our Vault.
 
 
 
-![Logo](https://drive.google.com/file/d/1X7ZGFtD1dqehqEH5AO_zjjkZJwCqOU8i/view?usp=drive_link)
+![Logo]([https://drive.google.com/file/d/1X7ZGFtD1dqehqEH5AO_zjjkZJwCqOU8i/view?usp=drive_link](https://res.cloudinary.com/dhv9ayxwl/image/upload/v1706198164/t6dmjkp1z9xwn86f38rj.jpg))
 
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
