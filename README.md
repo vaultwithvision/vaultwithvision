@@ -3,8 +3,8 @@
 Empowering Futures, Safeguarding Visions – Your Knowledge, Our Vault.
 
 
-
-![Logo](https://res.cloudinary.com/dhv9ayxwl/image/upload/v1706198164/t6dmjkp1z9xwn86f38rj.jpg)
+<img src="https://res.cloudinary.com/dhv9ayxwl/image/upload/v1706198164/t6dmjkp1z9xwn86f38rj.jpg" width=50% height=50%>
+<!-- ![Logo]() -->
 
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
